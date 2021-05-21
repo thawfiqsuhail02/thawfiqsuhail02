@@ -1,4 +1,4 @@
-- 👋 Hi Everyone, I’m @ThawfiqSuhail
+- 👋 Hi Everyone, I’m @MohamedThawfiqSuhail
 - 👀 I’m interested in Coding and Developing Products that are useful to the Human Kind.
 - 🌱 currently a Student. 
 - 💞️ I’m looking to Develop new Projects.
